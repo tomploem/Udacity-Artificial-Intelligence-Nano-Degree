@@ -1,1 +1,1 @@
-# Projects of the Artificial Intellingence ND
+# Projects of thex Artificial Intellingence ND
