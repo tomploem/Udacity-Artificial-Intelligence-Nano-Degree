@@ -1,1 +1,1 @@
-# Udacity-Artificial-Intelligence-Nano-Degree
+# Projects of the Artificial Intellingence ND
